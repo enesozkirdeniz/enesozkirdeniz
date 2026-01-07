@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web - Mobile Application Security**
 
-- 📫 How to reach me **ozkirdenizenes@gmail.com**
+- 📫 How to reach me **info@enesozkirdeniz.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
