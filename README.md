@@ -29,7 +29,7 @@ I am a passionate cybersecurity professional focused on **Application Security**
 - 📝 Writing technical articles on [Medium](https://medium.com/@enesozkirdeniz) — CTF writeups & security analyses
 - 🎯 Targeting **OSCE (Offensive Security Certified Expert)**
 - 🌐 Visit my portfolio: [enesozkirdeniz.com](https://enesozkirdeniz.com)
-- 📬 Reach me at: **info@enesozkirdeniz.com**
+- 📬 Reach me at: **enes@enesozkirdeniz.com**
 
 ---
 
